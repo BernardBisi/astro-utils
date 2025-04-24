@@ -1,0 +1,8 @@
+setup.py
+phot_utils/__init__.py
+phot_utils/fits_reader.py
+phot_utils/get_filenames.py
+phot_utils.egg-info/PKG-INFO
+phot_utils.egg-info/SOURCES.txt
+phot_utils.egg-info/dependency_links.txt
+phot_utils.egg-info/top_level.txt
